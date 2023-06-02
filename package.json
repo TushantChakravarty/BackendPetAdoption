@@ -24,6 +24,8 @@
     "express": "^4.17.1",
     "express-session": "^1.17.2",
     "express-validator": "^6.12.2",
+    "fcm-node": "^1.6.1",
+    "firebase-admin": "^11.9.0",
     "fs": "^0.0.1-security",
     "jsonwebtoken": "^8.5.1",
     "method-override": "^3.0.0",
